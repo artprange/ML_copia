@@ -1,0 +1,9 @@
+[
+  {
+    "fullName": "John Doe",
+    "email": "john_doe@doe.com",
+    "dob": "2013-05-05",
+    "gender": "male",
+    "pw": "123456"
+  }
+]
